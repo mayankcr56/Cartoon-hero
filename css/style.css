@@ -1,0 +1,23 @@
+body{
+	background-color: LightSkyBlue;
+}
+h1 {
+font-size: 40px;
+color:red;
+}
+h2{
+font-size: 70px;
+color: teal;
+}
+.big{
+font-size: 90px;
+}
+.uppercase{
+text-transform: uppercase;
+}
+.big.uppercase{
+color: navy;
+}
+h1 span{
+color: Chartreuse;
+    }
